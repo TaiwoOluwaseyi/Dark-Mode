@@ -136,6 +136,16 @@ html {
     opacity: 0.7;
 }
 
+@media (max-width: 700px) {
+    .card {
+        width: 38px;
+    }
+
+    .red-circle, .orange-circle {
+        width: 5rem;
+        height: 5rem;
+    }
+}
 
 
 
